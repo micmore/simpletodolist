@@ -27,7 +27,7 @@ This web application allows users to manage their to-do list through a user-frie
 
 - Clone the repository to your local machine:
 
-- git clone [https://github.com/your-username/todo-list-web-app.git](https://github.com/micmore/simpletodolist.git)
+- git clone https://github.com/micmore/simpletodolist.git
 
 ## Install the required Python packages:
 
