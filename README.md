@@ -20,5 +20,27 @@ This web application allows users to manage their to-do list through a user-frie
 - HTML
 - CSS (Bootstrap)
 
+## How to Run
+
+    Clone the repository to your local machine:
+
+    bash
+
+git clone [https://github.com/your-username/todo-list-web-app.git](https://github.com/micmore/simpletodolist.git)
+
+Install the required Python packages:
+
+bash
+
+pip install Flask
+
+Run the application:
+
+bash
+
+python app.py
+
+The application will be accessible at http://127.0.0.1:5000/.
+
 
 
