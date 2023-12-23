@@ -14,6 +14,7 @@ This web application allows users to manage their to-do list through a user-frie
 - 
 ## Preview
 ![Screenshot](https://github.com/micmore/simpletodolist/blob/main/Screenshot%202023-12-23%20025436.png)
+![Screenshot 2](https://github.com/micmore/simpletodolist/blob/main/Screenshot%202023-12-23%20025544.png)
 
 ## Technologies Used
 
