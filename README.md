@@ -43,5 +43,8 @@ This web application allows users to manage their to-do list through a user-frie
 
 - The application will be accessible at http://127.0.0.1:5000/.
 
+## License
+- This project is open source and can be used by anyone under the terms of the MIT License. If you use this code in your project, please provide attribution to the original source.
+
 
 
